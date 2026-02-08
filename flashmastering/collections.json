@@ -1,0 +1,124 @@
+[
+  {
+    "id": "bac_terminale_fr",
+    "name": "Bac Terminale",
+    "description": "Toutes les matières pour réussir le Bac",
+    "iconName": "graduationcap.fill",
+    "colorName": "indigo",
+    "stableDeckIds": [
+      "bac_francais_oeuvres_parcours",
+      "bac_francais_outils_reperes",
+      "bac_maths_essentiels",
+      "bac_physique_chimie_essentiels",
+      "bac_svt_essentiels",
+      "bac_philosophie_notions",
+      "bac_histoire_reperes_chronologie",
+      "bac_geographie_reperes_territoires",
+      "bac_hggsp_notions",
+      "bac_anglais_bases",
+      "bac_grand_oral"
+    ],
+    "language": "fr"
+  },
+  {
+    "id": "financial_literacy_en",
+    "name": "Financial Literacy",
+    "description": "Budgeting, credit, and everyday money skills",
+    "iconName": "dollarsign.circle.fill",
+    "colorName": "green",
+    "stableDeckIds": [
+      "budget_basics_everyday_money",
+      "debt_credit_basics"
+    ],
+    "language": "en"
+  },
+  {
+    "id": "financial_literacy_fr",
+    "name": "Éducation financière",
+    "description": "Budget, crédit et gestion de l'argent au quotidien",
+    "iconName": "dollarsign.circle.fill",
+    "colorName": "green",
+    "stableDeckIds": [
+      "budget_personnel_bases",
+      "dette_credit_bases"
+    ],
+    "language": "fr"
+  },
+  {
+    "id": "health_essentials_en",
+    "name": "Health Essentials",
+    "description": "Nutrition, body systems, and wellness basics",
+    "iconName": "heart.fill",
+    "colorName": "red",
+    "stableDeckIds": [
+      "human_body_energy_basics",
+      "nutrition_science_basics"
+    ],
+    "language": "en"
+  },
+  {
+    "id": "health_essentials_fr",
+    "name": "Santé & Bien-être",
+    "description": "Nutrition, corps humain et bases du bien-être",
+    "iconName": "heart.fill",
+    "colorName": "red",
+    "stableDeckIds": [
+      "corps_humain_energie_bases",
+      "nutrition_science_bases"
+    ],
+    "language": "fr"
+  },
+  {
+    "id": "scientific_literacy_en",
+    "name": "Scientific Literacy",
+    "description": "Scientific method, evidence, and data reasoning",
+    "iconName": "flask.fill",
+    "colorName": "purple",
+    "stableDeckIds": [
+      "scientific_method_evidence",
+      "reasoning_with_data_science_lit"
+    ],
+    "language": "en"
+  },
+  {
+    "id": "digital_literacy_en",
+    "name": "Digital Literacy",
+    "description": "Internet, cybersecurity, and digital privacy essentials",
+    "iconName": "lock.shield.fill",
+    "colorName": "cyan",
+    "stableDeckIds": [
+      "digital_internet_web_basics",
+      "cybersecurity_privacy_essentials"
+    ],
+    "language": "en"
+  },
+  {
+    "id": "stem_foundations_en",
+    "name": "STEM Foundations",
+    "description": "Math, physics, chemistry, biology, and computer science",
+    "iconName": "atom",
+    "colorName": "blue",
+    "stableDeckIds": [
+      "stem_algebra_functions",
+      "stem_calculus_foundations",
+      "stem_probability_statistics",
+      "stem_physics_mechanics_essentials",
+      "stem_chemistry_atoms_bonding_basics",
+      "stem_biology_cells_genetics",
+      "stem_computer_science_foundations"
+    ],
+    "language": "en"
+  },
+  {
+    "id": "general_culture_en",
+    "name": "General Culture",
+    "description": "Geography, history, and civics essentials",
+    "iconName": "globe",
+    "colorName": "orange",
+    "stableDeckIds": [
+      "general_culture_geography_world_basics",
+      "general_culture_history_civics"
+    ],
+    "language": "en"
+  }
+]
