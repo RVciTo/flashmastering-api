@@ -120,5 +120,85 @@
       "general_culture_history_civics"
     ],
     "language": "en"
+  },
+  {
+    "id": "scientific_literacy_fr",
+    "name": "Culture scientifique",
+    "description": "Méthode scientifique, preuves et raisonnement avec les données",
+    "iconName": "flask.fill",
+    "colorName": "purple",
+    "stableDeckIds": [
+      "methode_scientifique_preuves",
+      "raisonner_avec_donnees"
+    ],
+    "language": "fr"
+  },
+  {
+    "id": "digital_literacy_fr",
+    "name": "Culture numérique",
+    "description": "Internet, cybersécurité et vie privée numérique",
+    "iconName": "lock.shield.fill",
+    "colorName": "cyan",
+    "stableDeckIds": [
+      "numerique_internet_web_bases",
+      "cybersecurite_vie_privee_essentiels"
+    ],
+    "language": "fr"
+  },
+  {
+    "id": "general_culture_fr",
+    "name": "Culture générale",
+    "description": "Géographie, histoire et repères essentiels",
+    "iconName": "globe",
+    "colorName": "orange",
+    "stableDeckIds": [
+      "culture_generale_geographie_monde",
+      "culture_generale_reperes_essentiels"
+    ],
+    "language": "fr"
+  },
+  {
+    "id": "computer_science_cs50_en",
+    "name": "Computer Science (CS50)",
+    "description": "Core computer science concepts inspired by Harvard CS50",
+    "iconName": "desktopcomputer",
+    "colorName": "red",
+    "stableDeckIds": [
+      "computer_science_cs50_foundations"
+    ],
+    "language": "en"
+  },
+  {
+    "id": "computer_science_cs50_fr",
+    "name": "Informatique (CS50)",
+    "description": "Fondements de l'informatique inspirés de Harvard CS50",
+    "iconName": "desktopcomputer",
+    "colorName": "red",
+    "stableDeckIds": [
+      "informatique_fondements_cs50"
+    ],
+    "language": "fr"
+  },
+  {
+    "id": "web3_blockchain_en",
+    "name": "Web3 & Blockchain",
+    "description": "Foundations of blockchain, Web3, and tokenomics",
+    "iconName": "link.circle.fill",
+    "colorName": "purple",
+    "stableDeckIds": [
+      "web3_blockchain_basics"
+    ],
+    "language": "en"
+  },
+  {
+    "id": "web3_blockchain_fr",
+    "name": "Web3 & Blockchain",
+    "description": "Bases de la blockchain, du Web3 et de la tokenomics",
+    "iconName": "link.circle.fill",
+    "colorName": "purple",
+    "stableDeckIds": [
+      "web3_blockchain_bases"
+    ],
+    "language": "fr"
   }
 ]
