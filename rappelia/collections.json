@@ -222,5 +222,18 @@
       "web3_defi_gouvernance"
     ],
     "language": "fr"
+  },
+  {
+    "id": "developer_foundations_en",
+    "name": "Developer Power Foundations",
+    "description": "Essential tech skills for developers: cybersecurity, operating systems, and command line mastery",
+    "iconName": "terminal.fill",
+    "colorName": "indigo",
+    "stableDeckIds": [
+      "practical_cybersecurity_foundations",
+      "operating_systems_processes_foundations",
+      "command_line_mastery_macos"
+    ],
+    "language": "en"
   }
 ]
